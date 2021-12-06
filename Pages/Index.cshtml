@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Početna";
+}
+<link rel="stylesheet" href="~/css/index.css" />
+
+<div class="row">
+    <div class="overlay"></div>
+    <div class="col-lg-8">
+        <h2>Potreban vam je prostor za proslavu?<br>Potrebna vam je muzika za iznajmljivanje?</h2>
+        <h1>Na pravom ste mestu!</h1>
+    </div>
+    <div class="col-lg-4">
+        <a class="btn-1" asp-area="" asp-page="/NapraviOglas"><button class="button">Napravi Oglas</button></a>
+        <a class="btn-2" asp-area="" asp-page="/SviOglasi"><button class="button">Svi Oglasi</button></a>
+        <img class="logo-right" src="~/Pictures/Logo.png">
+    </div>
+</div>

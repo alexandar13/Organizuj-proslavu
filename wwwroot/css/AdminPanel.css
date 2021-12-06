@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.card
+{
+    width: 260px;
+    margin: auto;
+}
+.btn-outline-success{
+    margin-top: 5px;
+}
+.col-lg-4
+{
+    margin-bottom: 30px;
+}
+h1{
+    color: #cacaca;
+    font-weight: 100;
+    font-family: Roboto;
+}
+.users{
+    border-top: 1px solid #E5E5E5;
+    padding-top: 30px;
+    margin-bottom: 45px;
+}
+.oglasivac{
+    border-top: 1px solid #E5E5E5;
+    padding-top: 30px;
+}

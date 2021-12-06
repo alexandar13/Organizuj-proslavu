@@ -1,0 +1,618 @@
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Web.config
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.exe
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.deps.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.dev.json
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csprojAssemblyReference.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfoInputs.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfo.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.input.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.output.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorCoreGenerate.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\AdminPanel.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Izmeni.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniOglas.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojiOglasi.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\NapraviOglas.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilKorisnika.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilOglasa.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\SviOglasi.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cs
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CopyComplete
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.Manifest.cache
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\andri\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.genruntimeconfig.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Web.config
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.exe
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.deps.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.dev.json
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csprojAssemblyReference.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CoreCompileInputs.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfoInputs.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfo.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.input.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.output.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorCoreGenerate.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\AdminPanel.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Izmeni.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniOglas.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojiOglasi.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\NapraviOglas.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilKorisnika.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilOglasa.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\SviOglasi.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cs
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CopyComplete
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.Manifest.cache
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\Andrija\Desktop\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.genruntimeconfig.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Web.config
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.exe
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.deps.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.dev.json
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.input.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.output.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorCoreGenerate.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\AdminPanel.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Izmeni.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniOglas.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojiOglasi.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\NapraviOglas.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilKorisnika.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilOglasa.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\SviOglasi.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.Manifest.cache
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\Aleksandar\Desktop\Projekat\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Web.config
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.exe
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.deps.json
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.json
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.runtimeconfig.dev.json
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csprojAssemblyReference.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfoInputs.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.AssemblyInfo.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CoreCompileInputs.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorAssemblyInfo.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.Manifest.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\staticwebassets\OrganizujProslavu.StaticWebAssets.xml
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\scopedcss\bundle\OrganizujProslavu.styles.css
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.input.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.TagHelpers.output.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorCoreGenerate.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\AdminPanel.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Izmeni.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\IzmeniOglas.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojeRezervacije.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\MojiOglasi.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\NapraviOglas.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilKorisnika.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\ProfilOglasa.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\SviOglasi.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cache
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.RazorTargetAssemblyInfo.cs
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.Views.pdb
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.csproj.CopyComplete
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.dll
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.pdb
+C:\Users\rados\Desktop\Projekat softversko\si.20.04.organizuj_proslavu\Aplikacija\OrganizujProslavu\obj\Debug\netcoreapp3.0\OrganizujProslavu.genruntimeconfig.cache

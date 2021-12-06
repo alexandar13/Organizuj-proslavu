@@ -1,0 +1,65 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "O nama";
+}
+
+<link rel="stylesheet" href="~/css/Onama.css">
+
+<div class="hero">
+    <div class="overlay">
+        <div class="text">
+            <p>Organizuj Proslavu</p>
+            <h1>@ViewData["Title"]</h1>
+        </div>
+        <div class="ikonica">
+            <a href="#scroll"><ion-icon class="more" name="arrow-down-circle"></ion-icon></a>
+        </div>
+    </div>
+</div>
+
+<div class="container" id="scroll">
+    <div class="row">
+        <div class="col-md-6 qmn">
+            <h2>QMN</h2>
+            <div class="break"></div>
+            <p class="qmn-desc">QMN je kompanija osnovana 2020. godine u cilju realizacije projekta Organizuj Proslavu. 
+            Mi smo grupa entuzijasta koja je spremna da se probije na svetsko tržište za Web aplikacije.</p>
+        </div>
+        <div class="col-md-6 qmn-right">
+            <img class="qmn-img" src="~/Pictures/qmn.png">
+        </div>
+    </div>
+</div>
+
+<div class="row about-us">
+    <div class="col-xl-6">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.2856576452396!2d21.887761115786333!3d43.32921118133775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4755b734236e7b93%3A0x89b64313b15d194a!2z0JDQu9C10LrRgdCw0L3QtNGA0LAg0JzQtdC00LLQtdC00LXQstCwIDMwLCDQndC40Yg!5e0!3m2!1ssr!2srs!4v1592854293075!5m2!1ssr!2srs" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+    <div class="col-xl-6 au-text">
+        <h2>ZAŠTO BAŠ MI?</h2>
+
+        <div class="row au-desc">
+            <div class="col-md-6 desc-text">
+                <p><span>01.</span>Bilo da želite da proslavite rođenje deteta ili krštenje, dečiji ili 18. rođendan, momačko ili devojačko veče, venčanje ili bilo kakav dogadjaj, na pravom ste mestu!</p>
+            </div>
+            <div class="col-md-6 desc-text">
+                <p><span>02.</span>Zajedno sa Vama ćemo pronaći pravi lokal koji odgovara Vašim potrebama, a ako želite da čitavu organizaciju događaja prepustite nama, potrudićemo se da ispunimo svaku Vašu želju.</p>
+            </div>
+            <div class="col-md-6 desc-text">
+                <p><span>03.</span>U zavisnosti od potreba možemo organizovati adekvatnu muziku za Vašu proslavu. Imate još želja? Nikakav problem, tu smo da Vas saslušamo i uspešno realizujemo.</p>
+            </div>
+            <div class="col-md-6 desc-text">
+                <p><span>04.</span>U godinama iza nas veliki broj pojedinaca i firmi nam je ukazao poverenje, zajedno smo pronašli odgovarajući lokal za proslavu ili smo učestvovali u kompletnoj organizaciji događaja.</p>
+            </div>
+        </div>
+
+        <p style="font-weight:bold;text-align:center;color:#6f6f6f;">KONTAKTIRAJTE NAS VEĆ SADA!</p>
+        <div class="row contact">
+            <div class="col-md-6"><ion-icon name="call-outline" style="color:#FF214F;vertical-align:-2px;"></ion-icon> 060 1234567</div>
+            <div class="col-md-6"><ion-icon name="location-outline" style="color:#FF214F;vertical-align:-2px;"></ion-icon> Aleksandra Medvdeva 30, Niš</div>
+        </div>
+    </div>
+</div>
+
+

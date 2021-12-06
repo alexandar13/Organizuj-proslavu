@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,400&display=swap');
+
+.row{
+    margin: 0;
+    padding: 0;
+    margin-top: -15px;
+    background-image: url(../Pictures/Pocetna.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.overlay{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background: rgba(0,0,0,0.3);
+    z-index: -1;
+}
+.col-lg-8{
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: grid;
+    place-items: center;
+}
+.col-lg-4{
+    background: rgba(175, 175, 175, 0.6);
+    display: grid;
+    justify-items: start;
+    align-items: center;
+}
+.logo-right{
+    position: absolute;
+    left: -100px;
+}
+.menu-link{
+    justify-self: center !important;
+    color: white;
+    font-family: Poppins;
+}
+.menu-link:hover{
+    color: rgb(185, 185, 41);
+}
+.button{
+    background: none;
+    outline: none;
+    border: 3px solid white;
+    justify-self: center;
+    color: white;
+    padding: 15px 25px 15px 25px;
+    transition: 0.3s;
+    opacity: 0;
+}
+.button:hover{
+    color: #E2CD4B;
+    border: 3px solid #E2CD4B;
+}
+.btn-1{
+    align-self: end;
+    justify-self: center;
+    padding-bottom: 2em;
+}
+.btn-2{
+    align-self: start;
+    justify-self: center;
+}
+h2{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 100;
+    align-self: end;
+    opacity: 0;
+}
+h1{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    align-self: start;
+    font-style: italic;
+    opacity: 0;
+}
+
+@media only screen and (max-width: 540px){
+    h2, h1{
+        font-size: 28px;
+    }
+    .logo-right{
+        display: none;
+    }
+}
+@media only screen and (max-width: 991px){
+    .logo-right{
+        display: none;
+    }
+    .col-lg-4{
+        padding: 5em;
+    }
+}
+@media only screen and (max-width: 991px){
+    .logo-right{
+        display: none;
+    }
+    .col-lg-4{
+        padding: 5em;
+    }
+}
+@media only screen and (max-width: 1279px){
+    h2, h1{
+        font-size: 28px;
+    }
+}
+
+/* ANIMACIJE */
+
+
+@keyframes h2load{
+    0%{
+        transform: translateY(-100px);
+        opacity: 0;
+        }
+    100%{
+        opacity: 1;
+        }
+}
+
+h2{
+    animation: h2load 0.3s 0.2s ease-in forwards;
+}
+
+@keyframes h1load{
+    0%{
+        animation-delay: 5s;
+        transform: translateX(-150px);
+        opacity: 0;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+h1{
+    animation: h1load 0.5s ease-in 0.7s forwards;
+}
+
+@keyframes buttonsanimation{
+    0%{
+        transform: translateY(-50px);
+        opacity: 0;
+        }
+    100%{
+        opacity: 1;
+        }
+}
+
+.button{
+    animation: buttonsanimation 0.6s 0.8s ease-in forwards;
+}

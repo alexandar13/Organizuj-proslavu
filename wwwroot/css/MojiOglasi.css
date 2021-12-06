@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.card
+{
+    width: 18rem; 
+    margin:auto;
+}
+.col-lg-4
+{
+    margin-bottom: 30px;
+}
+.card-img-top
+{
+    height: 250px;
+}
+h1{
+    color: #cacaca;
+    font-weight: 100;
+    font-family: Roboto;
+}
+.card-title, .desc{
+    color: #8c8c8c;
+}
+.btn{
+    margin-right: 5px;
+}
+.sadrzaj{
+    padding-bottom: 25px;
+}
+.desc{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.obavestenje{
+    font-family: Roboto !important;
+    font-size: 36px;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 160px;
+}

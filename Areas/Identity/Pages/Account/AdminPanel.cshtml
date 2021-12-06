@@ -1,0 +1,224 @@
+﻿@page
+@model AdminPanelModel
+@using System.Web
+@{
+  ViewData["Title"] = "Admin panel";
+}
+@inject UserManager<WebApp1User> UserManager
+
+
+<form method = "post">
+<link rel="stylesheet" href="~/temp/toastr.min.css">
+<link rel="stylesheet" href="~/css/AdminPanel.css">
+
+ <script src="~/temp/jquery-3.4.1.min.js"></script>
+ <script src="~/temp/toastr.min.js"></script>
+<!-- Toastr notify obavestenja -->
+  @if (TempData["Tip"] != null)
+  {
+    <script>
+              $('#Obrisibtn','#Adminbtn','#Uklonibtn').on('click', function()
+              {
+              toastr.options = {
+              } 
+              })
+            switch ("@TempData["Tip"]") {
+                case "Success":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.success("Uspesno ste obrisali korisnika", "Potvrda");
+                break;
+                case "Error":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.error("@TempData["Message"]", "Greska");
+                break;
+                case "SuccessA":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.success("Uspesno ste dodelili admina", "Potvrda");
+                break;
+                case "SuccessU":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.success("Uspesno ste uklonili admina", "Potvrda");
+
+            }
+</script>
+  }
+<div class="container">
+  <h1> Admin Panel </h1>
+  <hr>
+  @if(@Model.Admini.Count >0)
+  {
+  <div class="row">  
+    @foreach (var user in @Model.Admini)
+    {
+    var photoPath = "~/images/" + (user.PhotoPath ?? "Lice.png");
+
+    <div class="col-lg-4">
+    <div class="card">
+      <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user.Id"><img class="card-img-top" src="@photoPath" alt="Card image cap" asp-append-version="true" style="height: 250px"></a>
+      <div class="card-body">
+        <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user.Id"><h5 class="card-title">@user.UserName</h5></a>
+        <p class="card-text">Admin</p>
+        <a type="submit" class="btn btn-outline-primary" asp-route-Id="@user.Id" asp-page="./Izmeni">Izmeni</a> <button type="button" class="btn btn-outline-danger" data-toggle="modal" data-target="#@user.UserName">Ukloni Admina</button>
+        <!-- Modal box za uklanjanje admina -->
+        <div class="modal fade" id="@user.UserName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Ukloni admina</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                Da li zelite da uklonite admina @user.UserName?
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+                <button type="submit" class="btn btn-primary" id="Uklonibtn" asp-route-Id="@user.Id" asp-page-handler="UkloniAdmina">Ukloni admina</button> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  }
+  </div>
+  }
+</div>
+  @if(@Model.Oglasivaci.Count > 0)
+  {
+<div class="container oglasivac">
+<div class="row">
+
+@foreach (var user1 in @Model.Oglasivaci)
+{
+var photoPath = "~/images/" + (user1.PhotoPath ?? "Lice.png");
+
+<div class="col-lg-4">
+<div class="card">
+  <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user1.Id"><img class="card-img-top" src="@photoPath" alt="Card image cap" asp-append-version="true" style="height: 250px"></a>
+  <div class="card-body">
+    <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user1.Id"><h5 class="card-title">@user1.UserName</h5></a>
+    <p class="card-text">Oglasivac</p>
+    <a type="submit" class="btn btn-outline-primary" asp-route-Id="@user1.Id" asp-page="./Izmeni">Izmeni</a> <button type="button" class="btn btn-outline-danger" data-toggle="modal" data-target="#@user1.UserName">Obriši</button>  <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#@user1.UserName@user1.UserName">Dodaj admina</button>
+
+    <!-- Modal box za Obrisi korisnika -->
+    <div class="modal fade" id="@user1.UserName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Obrisi korisnika</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Da li zelite da obrisite korisnika @user1.UserName?
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+            <button type="submit" class="btn btn-primary" id="Obrisibtn" asp-route-Id="@user1.Id" asp-page-handler="Obrisi">Obrisi</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal box za Dodavanje admina -->
+    <div class="modal fade" id="@user1.UserName@user1.UserName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Dodaj admina</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Da li zelite da dodelite admina korisniku @user1.UserName?
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+            <button type="submit" class="btn btn-primary" id="Adminbtn" asp-route-Id="@user1.Id" asp-page-handler="DodajAdmina">Dodaj Admina</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+}
+
+</div>
+</div>
+  }
+    @if(@Model.Korisnici.Count>0)
+  {
+<div class="container users">
+<div class="row">
+
+  @foreach (var user2 in @Model.Korisnici)
+{
+var photoPath = "~/images/" + (user2.PhotoPath ?? "Lice.png");
+
+<div class="col-lg-4">
+<div class="card">
+  <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user2.Id"><img class="card-img-top" src="@photoPath" alt="Card image cap" asp-append-version="true" style="height: 250px"></a>
+  <div class="card-body">
+    <a class="text-dark" asp-page="../ProfilKorisnika" asp-route-Id="@user2.Id"><h5 class="card-title">@user2.UserName</h5></a>
+    <p class="card-text">Korisnik</p>
+    <div>
+    <a type="submit" class="btn btn-outline-primary" asp-route-Id="@user2.Id" asp-page="./Izmeni">Izmeni</a> <button type="button" class="btn btn-outline-danger" data-toggle="modal" data-target="#@user2.UserName">Obrisi</button> <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#@user2.UserName@user2.UserName">Dodaj admina</button>
+
+    <!-- Modal box za Obrisi korisnika -->
+    <div class="modal fade" id="@user2.UserName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Obrisi korisnika</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Da li zelite da obrisite korisnika @user2.UserName?
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+            <button type="submit" class="btn btn-primary" id="Obrisibtn" asp-route-Id="@user2.Id" asp-page-handler="Obrisi">Obrisi</button> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal box za Dodavanje admina -->
+    <div class="modal fade" id="@user2.UserName@user2.UserName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Dodaj admina</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Da li zelite da dodelite admina korisniku @user2.UserName?
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+            <button type="submit" class="btn btn-primary" id="Adminbtn" asp-route-Id="@user2.Id" asp-page-handler="DodajAdmina">Dodaj Admina</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+}
+  
+</div>
+</div>
+  }
+</form>

@@ -1,0 +1,120 @@
+﻿@page
+@model SviOglasiModel
+@using Microsoft.AspNetCore.Identity
+@using OrganizujProslavu.Areas.Identity.Data
+@using System.Security.Claims
+
+@inject SignInManager<WebApp1User> SignInManager
+@inject UserManager<WebApp1User> UserManager
+@{
+
+  ViewData["Title"] = "Svi oglasi";
+}
+<link rel="stylesheet" href="~/css/SviOglasi.css">
+<link rel="stylesheet" href="~/temp/toastr.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,400&display=swap" rel="stylesheet">
+
+<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+
+
+<div class="container sadrzaj">
+<form id="formID" method="get">
+<h1 style="color: #cacaca;font-weight: 100;font-family: Roboto;">Svi oglasi</h1>
+<hr> 
+<div class="filter" style="display: flex;">
+    <select class="form-control" asp-for="@Model.TipOglasaFilter" asp-items="@Model.TipOglasa"  id="TipOglasa">
+      <option value="" selected disabled hidden>Tip oglasa</option>
+      <option value="">Svi</option>
+    </select>
+    <input type="text" class="form-control" asp-for="@Model.FilterIme" /><button class="btn btn-outline-primary search" type="submit"><ion-icon name="search-outline" style="vertical-align: -2px;"></ion-icon> Pretraži</button>
+</div>
+<br />
+
+@if(@Model.Oglasi.Count==0)
+{
+  <a class="text-dark" asp-page="./NapraviOglas">
+     <h5 class="obavestenje"><ion-icon name="add-circle-outline"></ion-icon> Trenutno nema oglasa! Napravi novi oglas</h5>
+  </a>
+}
+
+<div class="row lista-oglasa">
+@foreach (var oglas in @Model.Oglasi)
+{
+var photoPath = "~/imagesOglasi/" + (oglas.NaslovnaSlika ?? "Objekat.png");
+<div class="col-lg-4">
+<div class="card">
+
+
+
+  <a class="text-dark" asp-route-Id="@oglas.Id" asp-page="/ProfilOglasa"> <img class="card-img-top" src="@photoPath" alt="Card image cap" asp-append-version="true" /><h5 class="card-header">@oglas.Naziv</h5></a>
+<form method="post">
+ @if (SignInManager.IsSignedIn(User))
+{
+    @if(User.IsInRole("Admin"))
+    {
+      <button type="button" class="delete" data-toggle="modal" data-target="#a_@oglas.Id" ><ion-icon name="trash-outline" style="vertical-align:-2px;"></ion-icon></button>
+
+      <!-- Modal box za uklanjanje admina -->
+        <div class="modal fade" id="a_@oglas.Id" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Obriši oglas</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                Da li zelite da uklonite oglas: @oglas.Naziv?
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Ponisti</button>
+                <button type="submit" id="Obrisibtn" class="btn btn-primary" asp-route-Id="@oglas.Id" asp-page-handler="ObrisiOglas">Obrisi oglas</button> 
+              </div>
+            </div>
+          </div>
+        </div>
+    }
+}
+</form>
+  <div class="card-body">
+    <h5 class="card-title">@oglas.TipOglasa</h5>
+    <p class="card-text desc">@oglas.Opis</p>
+    <p class="card-text"><ion-icon name="location-outline"></ion-icon> @oglas.Grad, @oglas.Adresa<br><ion-icon name="call-outline"></ion-icon> @oglas.BrojTelefona</p>
+  </div>
+
+  <a asp-route-Id="@oglas.Id" asp-page="/ProfilOglasa">
+    <button class="more-btn" type="button">Više <ion-icon name="chevron-forward-circle-outline" style="vertical-align: text-bottom; font-size: 18px;"></ion-icon></button>
+  </a>  
+  
+</div>
+</div>
+}
+</div>
+</form>
+</div>
+
+ <script src="~/temp/jquery-3.4.1.min.js"></script>
+ <script src="~/temp/toastr.min.js"></script>
+
+<!-- Toastr notify obavestenja -->
+  @if (TempData["Oglas"] != null)
+  {
+    <script>
+              $('#Obrisibtn').on('click', function()
+              {
+              toastr.options = {
+              } 
+              })
+            switch ("@TempData["Oglas"]") {
+                case "Success":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.success("Uspesno ste obrisali oglas", "Potvrda");
+                break;
+                case "Error":
+                toastr.options = {"positionClass": "toast-top-center","timeOut": "5000" }
+                toastr.error("Oglas nije pronadjen", "Greska");
+                break;
+            }
+</script>
+}
